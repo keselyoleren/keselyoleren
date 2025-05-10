@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hadi Sasmito</h1>
-<h3 align="center">DJango Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 
 - 📫 How to reach me **keselyoleren@gmail.com**
